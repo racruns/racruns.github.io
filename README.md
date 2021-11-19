@@ -8,7 +8,8 @@ Current To-Do List
 
 - Design Website
 - Intergrate with existing srcom leaderboards using API
-- Register a Domain 
+- Develop standalone leaderboards/accounts
+- Wiki/resources pages
 
 
 Contact fireproofnas#7427 / @fireproofnas_ for any questions/querys.
