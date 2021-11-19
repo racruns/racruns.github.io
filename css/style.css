@@ -20,3 +20,37 @@ a:active { text-decoration: none; }
 .topBar a:hover{
     background-color: #b72cbe;
 }
+.topBarDropBtn {
+    background-color: #4B074F;
+    color: #F2D100;
+    padding: 14px 100px;
+    font-size: 28px;
+    border: none;
+}
+.topBarDrop {
+    position: relative;
+    display: inline-block;
+}
+.topBarDrop-Content {
+    display: none;
+    position: absolute;
+    background-color: #b72cbe;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;    
+}
+.topBarDrop-Content a{
+    color: #F2D100;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.topBarDrop-Content a:hover {
+    background-color: #b72cbe;
+}
+.topBarDrop:hover .topBarDrop-Content {
+    display: block;
+}
+.dropdown:hover .topBarDropBtn {
+    background-color: #b72cbe;
+}
