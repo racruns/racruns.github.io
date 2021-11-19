@@ -7,11 +7,11 @@ racruns text
 	size 48px
 	hex F2D100
 secondary top bar text
-	font ms reference sans serif
+	font shippori antique
 	size 28px
 	hex F2D100
 user top bar
-	font ms reference sans serif
+	font shippori antique
 	size 18px
 	hex F2D100
 main content box
