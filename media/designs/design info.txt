@@ -16,3 +16,4 @@ user top bar
 	hex F2D100
 main content box
 	opacity 125
+	size 80%ish idfk
