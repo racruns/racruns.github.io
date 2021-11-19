@@ -1,0 +1,18 @@
+home info
+top bar
+	opacity 228
+	hex 4B074F
+racruns text
+	font procrastinating pixie
+	size 48px
+	hex F2D100
+secondary top bar text
+	font ms reference sans serif
+	size 28px
+	hex F2D100
+user top bar
+	font ms reference sans serif
+	size 18px
+	hex F2D100
+main content box
+	opacity 125
