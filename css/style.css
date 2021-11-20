@@ -18,7 +18,7 @@ a:active { text-decoration: none; }
     font-family: 'Shippori Antique', sans-serif;
 }
 .topBar a:hover{
-    background-color: #b72cbe;
+    color: #b72cbe;
 }
 .topBarDropBtn {
     background-color: #4B074F;
@@ -34,7 +34,7 @@ a:active { text-decoration: none; }
 .topBarDrop-Content {
     display: none;
     position: absolute;
-    background-color: #b72cbe;
+    background-color: #4B074F;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;    
@@ -53,6 +53,6 @@ a:active { text-decoration: none; }
 .topBarDrop:hover .topBarDrop-Content {
     display: block;
 }
-.dropdown:hover .topBarDropBtn {
-    background-color: #b72cbe;
+.topBarDrop:hover .topBarDropBtn {
+    color: #b72cbe;
 }
